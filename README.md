@@ -17,19 +17,32 @@ simulation trajectories. We will be using examples primarily
 from chemical engineering and materials science.
 
 ## Schedule
-09:00 - 09:30 - Introductions and some minor preparation
-09:30 - 11:00 - Examples of network models in porous media
-11:00 - 11:30 - Coffee break
-11:30 - 13:00 - Implementing network models I (working session)
-13:00 - 14:00 - Lunch
-14:00 - 15:30 - Implementing network models II (working session)
-15:30 - 16:00 - Tea
-16:00 - 17:00 - Open discussion time**
 
+| Time slot    | Topic                                            |
+|--------------|--------------------------------------------------|
+|09:00 - 09:30 | Introductions and some minor preparation         |
+|09:30 - 11:00 | Examples of network models in porous media       |
+|11:00 - 11:30 | Coffee break                                     |
+|11:30 - 13:00 | Implementing network models I (working session)  |
+|13:00 - 14:00 | Lunch                                            |
+|14:00 - 15:30 | Implementing network models II (working session) | 
+|15:30 - 16:00 | Tea                                              |
+|16:00 - 17:00 | Open discussion time**                           |
+
+
+>>> 
 ** If there are any requests for specific topics, please let media
    know and I can prepare
+>>>
 
 ## Preparation
 This will be a hands on workshop where we will have two big sessions
 to implement some example models. We will be using Python as our 
-programming language of choice. 
+programming language of choice. You will need a python environment with
+the following packages installed
+
+* numpy
+* scipy
+* matplotlib
+* [networkx](https://networkx.org/)
+* [openpnm](http://openpnm.org/)
