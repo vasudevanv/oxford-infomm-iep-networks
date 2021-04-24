@@ -46,3 +46,7 @@ the following packages installed
 * matplotlib
 * [networkx](https://networkx.org/)
 * [openpnm](http://openpnm.org/)
+
+## Note
+All code presented is for illustration purpose only. It is not optimized to
+run on large system sizes.
