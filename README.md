@@ -1,5 +1,5 @@
 # Introduction to Network Models
-## InFoMM CDT IEP, April 2021  
+## InFoMM CDT IEP - April 2021 and March 2022
 
 The study of network models began with Euler and the
 problem of the seven bridges of Konigsberg. Since then
@@ -7,7 +7,10 @@ the field has grown tremendously and finds applications
 in a many fields including communications, epidimeology, 
 chemistry, biology,material science, and social studies 
 to name a few.
-This 1-day workshop is intended to serve as an introduction 
+
+This repository holds code from a 1-day workshop conducted 
+as a part of the Industrially Focused Mathematical Modeling
+CDT's program and is intended to serve as an introduction 
 to network models. Our goal here is not to go deep into the
 mathematics of the subject, but rather provide guidance
 on how to get started with developing a network model, 
@@ -16,7 +19,7 @@ calculating physical quantities of interest from the
 simulation trajectories. We will be using examples primarily 
 from chemical engineering and materials science.
 
-## Schedule
+## Schedule for the workshop
 
 | Time slot    | Topic                                            |
 |--------------|--------------------------------------------------|
@@ -47,6 +50,8 @@ the following packages installed
 * [networkx](https://networkx.org/)
 * [openpnm](http://openpnm.org/)
 
-## Note
-All code presented is for illustration purpose only. It is not optimized to
-run on large system sizes.
+## Notes
+* All code presented is for illustration purpose only. It is not optimized to
+  run on large system sizes.
+
+* In case of any questions/issues please reach out.
