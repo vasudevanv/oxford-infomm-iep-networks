@@ -3,6 +3,7 @@
 # Python specific
 .ipynb_checkpoints
 __pycache__
+.pytest_cache
 
 # IDE/Editor specific
 .vscode
